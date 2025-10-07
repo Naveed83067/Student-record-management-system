@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NAVEED ABBASI\\Desktop\\git hub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0094210-8DB0-48D9-B1A7-FD1B686D9C89}|git hub.vcxproj|C:\\Users\\NAVEED ABBASI\\Desktop\\git hub\\git hub.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0094210-8DB0-48D9-B1A7-FD1B686D9C89}|git hub.vcxproj|solutionrelative:git hub.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "git hub.cpp",
+              "DocumentMoniker": "C:\\Users\\NAVEED ABBASI\\Desktop\\git hub\\git hub.cpp",
+              "RelativeDocumentMoniker": "git hub.cpp",
+              "ToolTip": "C:\\Users\\NAVEED ABBASI\\Desktop\\git hub\\git hub.cpp",
+              "RelativeToolTip": "git hub.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-07T10:11:50.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
